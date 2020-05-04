@@ -1,3 +1,5 @@
+//COM 5
+
 int micromotor = 12;
 int statemotor;
 int microstart = 11;
