@@ -1,3 +1,5 @@
+//COM 5
+
 #include "max6675.h"
 
 //Resistencia 1
