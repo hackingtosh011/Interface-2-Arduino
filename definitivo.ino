@@ -1,4 +1,4 @@
-//COM 5
+//COM 4
 
 #include "max6675.h"
 
